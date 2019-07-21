@@ -1,4 +1,4 @@
-# Recoomendation_using_tensorflow
+# Recommendation_using_tensorflow
 Objective:
  To build a recommender system that will recommend products based on customer id using implicit historical data. 
 
