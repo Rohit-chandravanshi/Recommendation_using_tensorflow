@@ -17,9 +17,9 @@ Objective:
 
 
  Approach:
-  1) At first we will try traditional method of most frequent items that have been bought by customers and recommend them on the basis of this baseline.
-  2)In the third method we will use implicit feedback data of user to produce recommendation using alternating least square method.
-  3) After that we will try  matrix factorization method which is SGD based.
+  1) At first we will try traditional method of most frequent items that have been bought by customers and recommend them on the basis of this baseline.  
+  2)In the third method we will use implicit feedback data of user to produce recommendation using alternating least square method.  
+  3) After that we will try  matrix factorization method which is SGD based.  
   4) In fourth step we will convert recommendation problem into a binary classsification so that we can apply a SGD based model on tensorflow.
   5) Then we will improve our results using Bayesian Personalised ranking.
   6) At last we will build RNN model along with LSTM cells to build a reccommender sytem using Tensorflow.
